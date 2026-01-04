@@ -21,7 +21,7 @@ License :
 
 - You are allowed to use all files for both personal and commercial projects.
 
-- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
+- If you use/modify the resources in your projects,weâ€™d appreciate a linkback to this site.
 
 - You do not have rights to redistribute,resell or offer files from this site to any third party
 
@@ -30,3 +30,7 @@ License :
 - If you have any question,feel free to contact us at webthemez@gmail.com
 
 - All images user here is for demo purpose only, we are not responsible for any copyrights.
+
+
+- Relative links:
+  https://sr.mihoyo.com/
