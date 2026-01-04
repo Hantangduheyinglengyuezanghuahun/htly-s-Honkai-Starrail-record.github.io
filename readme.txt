@@ -34,3 +34,4 @@ License :
 
 - Relative links:
   https://sr.mihoyo.com/
+  https://www.baidu.com/
